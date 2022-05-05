@@ -1,37 +1,36 @@
-## Welcome to GitHub Pages
+![logo.png](logo.png)
 
-You can use the [editor on GitHub](https://github.com/langcog/babyview.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## About the BabyView
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The BabyView camera is designed collect high-resolution, at-home egocentric video data from children 9 - 30 months of age.  The camera consists a deconstructed  GoPro Hero8 camera enclosed in a lightweight 3D printed casing that is mounted onto a lightweight baby helmet. The BabyView camera was designed in collaboration with Daylight, Inc., a product-design firm in San Francisco, CA, and has undergone rigorous safety testing and prototyping.
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The design process and pilot data from the BabyView camera can be found at [PSYARXIV LINK]
 
-```markdown
-Syntax highlighted code block
+## Materials 
 
-# Header 1
-## Header 2
-### Header 3
+All design documentation, safety testing protocols, assembly instructions, pilot data, data management protocols, and sample participant instructions can be found at [OSF LINK].
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+## Overview
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
+## Contact and Acknowledgements
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+Contributors: 
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/langcog/babyview.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Bria Long<sup>1</sup>, Sarah Goodin<sup>2</sup>, George Kachergis<sup>1</sup>, Virginia A. Marchman<sup>1</sup>, Samaher Radwan<sup>1</sup>, 
+Violet Xiang<sup>1</sup>, Chengxu Zhuang<sup>1</sup>, Oliver Hsu<sup>2</sup>, Brett Newman<sup>2</sup>, Daniel L. K. Yamins<sup>1,3</sup>, Michael C. Frank<sup>1</sup>
 
-### Support or Contact
+1 Department of Psychology, Stanford University
+2 Daylight Design
+3 Department of Computer Science, Stanford University
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Research and development of the BabyView was supported by a generous gift from The Schmidt Futures Foundation (https://www.schmidtfutures.com/).
+
+For more information, contact [Michael Frank](http://web.stanford.edu/~mcfrank/).
+
+## License
+
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International License</a>. It can be shared and adapted, but you must acknowledge the original by citing the paper above. 
