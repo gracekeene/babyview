@@ -5,25 +5,19 @@
 
 The BabyView camera is designed collect high-resolution, at-home egocentric video data from children 9 - 30 months of age.  The camera consists a deconstructed  GoPro Hero8 camera enclosed in a lightweight 3D printed casing that is mounted onto a lightweight baby helmet. The BabyView camera was designed in collaboration with Daylight, Inc., a product-design firm in San Francisco, CA, and has undergone rigorous safety testing and prototyping.
 
+All design documentation, safety testing protocols, assembly instructions, pilot data, data management protocols, and sample participant instructions can be found at https://osf.io/kwvxu/, which also links to a preprint of a forthcoming paper with this same content. 
 
-The design process and pilot data from the BabyView camera can be found at [PSYARXIV LINK]
+If you are interested in being part of a batch of orders for BabyView cameras for production in summer 2022, please contact bria [at] stanford.edu.
 
-## Materials 
-
-All design documentation, safety testing protocols, assembly instructions, pilot data, data management protocols, and sample participant instructions can be found at [OSF LINK].
-
-
-## Overview
-
-Our goal was to capture a toddler’s field of view and their interactions as accurately as possible while also providing head tracking data. We found that the GoPro Hero 8 meet these needs with a ~100°+ FOV, a GPs unit, Gyroscope, accelerometer, high resolution video and recording time up to 90 minutes. The GoPro Hero 8 also has desirable features including a low power front LCD screen, swappable micro SD cards to extend video capacity, a relatively light overall weight.
-During our experimentation with the GoPros, we determined that orienting the camera vertically at an angle neutral to the face place of the child was preferable because it enables the camera to capture both adult faces and objects within a child’s hands in the same image. Though it sacrifices some FOV breadth in the horizontal plane, the contextual information in the vertical orientation provides a substantial benefit that will distinguish the Stanford BabyCam dataset from others available.
-
-### Design processs
+## Brief overview
 
 ### Camera choice 
+Our goal was to capture a toddler’s field of view and their interactions as accurately as possible while also providing head tracking data. We found that the GoPro Hero 8 meet these needs with a ~100°+ FOV, a GPs unit, Gyroscope, accelerometer, high resolution video and recording time up to 90 minutes. The GoPro Hero 8 also has desirable features including a low power front LCD screen, swappable micro SD cards to extend video capacity, a relatively light overall weight. During our experimentation with the GoPros, we determined that orienting the camera vertically at an angle neutral to the face place of the child was preferable because it enables the camera to capture both adult faces and objects within a child’s hands in the same image; see example images below.
 
-### 
-
+<p float="left">
+<img src="example_frame_1.png" width="350">
+<img src="example_frame_2.png" width="350">
+</p>
 
 ## Contact and Acknowledgements
 
