@@ -1,4 +1,5 @@
-![logo.png](logo.png)
+![logo.png](babyview_photo.png)
+
 
 ## About the BabyView
 
