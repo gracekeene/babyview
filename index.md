@@ -15,6 +15,15 @@ All design documentation, safety testing protocols, assembly instructions, pilot
 
 ## Overview
 
+Our goal was to capture a toddler’s field of view and their interactions as accurately as possible while also providing head tracking data. We found that the GoPro Hero 8 meet these needs with a ~100°+ FOV, a GPs unit, Gyroscope, accelerometer, high resolution video and recording time up to 90 minutes. The GoPro Hero 8 also has desirable features including a low power front LCD screen, swappable micro SD cards to extend video capacity, a relatively light overall weight.
+During our experimentation with the GoPros, we determined that orienting the camera vertically at an angle neutral to the face place of the child was preferable because it enables the camera to capture both adult faces and objects within a child’s hands in the same image. Though it sacrifices some FOV breadth in the horizontal plane, the contextual information in the vertical orientation provides a substantial benefit that will distinguish the Stanford BabyCam dataset from others available.
+
+### Design processs
+
+### Camera choice 
+
+### 
+
 
 ## Contact and Acknowledgements
 
