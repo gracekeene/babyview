@@ -2,15 +2,14 @@
 
 ## About the BabyView
 
-The BabyView camera is designed collect high-resolution, at-home egocentric video data from children 9 - 30 months of age.  The camera consists a deconstructed  GoPro Hero8 camera enclosed in a lightweight 3D printed casing that is mounted onto a lightweight baby helmet. The BabyView camera was designed in collaboration with Daylight, Inc., a product-design firm in San Francisco, CA, and has undergone rigorous safety testing and prototyping.
+The BabyView camera is designed collect high-resolution, at-home egocentric video data from children 9 - 30 months of age.  The camera consists a rotated  GoPro Black Bones camera attached to a lightweight baby safety helmet using a custom 3D printed mount and attached to a rechargeable 9V battery. The BabyView camera was designed in collaboration with Daylight, Inc., a product-design firm in San Francisco, CA, and and is the result of more than a year of prototyping.
 
 
 The design process and pilot data from the BabyView camera can be found at [PSYARXIV LINK]
 
 ## Materials 
 
-All design documentation, safety testing protocols, assembly instructions, pilot data, data management protocols, and sample participant instructions can be found at [OSF LINK].
-
+All design documentation, safety testing protocols, assembly instructions, pilot data, data management protocols, and sample participant instructions can be found at https://osf.io/kwvxu/.
 
 ## Overview
 
