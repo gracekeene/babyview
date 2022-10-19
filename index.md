@@ -3,7 +3,7 @@
 
 ## About the BabyView
 
-The BabyView camera is designed collect high-resolution, at-home egocentric video data from children 9 - 30 months of age.  The camera consists a deconstructed  GoPro Hero8 camera enclosed in a lightweight 3D printed casing that is mounted onto a lightweight baby helmet. The BabyView camera was designed in collaboration with Daylight, Inc., a product-design firm in San Francisco, CA, and has undergone rigorous safety testing and prototyping.
+The BabyView camera is designed collect high-resolution, at-home egocentric video data from children 9 - 30 months of age. The camera consists a rotated GoPro Black Bones camera attached to a lightweight baby safety helmet using a custom 3D printed mount and attached to a rechargeable 9V battery. The BabyView camera was designed in collaboration with Daylight, Inc., a product-design firm in San Francisco, CA, and and is the result of more than a year of prototyping.
 
 All design documentation, safety testing protocols, assembly instructions, pilot data, data management protocols, and sample participant instructions can be found at https://osf.io/kwvxu/, which also links to a preprint of a forthcoming paper with this same content. 
 
@@ -12,7 +12,7 @@ If you are interested in being part of a batch of orders for BabyView cameras fo
 ## Brief overview
 
 ### Camera choice 
-Our goal was to capture a toddler’s field of view and their interactions as accurately as possible while also providing head tracking data. We found that the GoPro Hero 8 meet these needs with a ~100°+ FOV, a GPs unit, Gyroscope, accelerometer, high resolution video and recording time up to 90 minutes. The GoPro Hero 8 also has desirable features including a low power front LCD screen, swappable micro SD cards to extend video capacity, a relatively light overall weight. During our experimentation with the GoPros, we determined that orienting the camera vertically at an angle neutral to the face place of the child was preferable because it enables the camera to capture both adult faces and objects within a child’s hands in the same image; see example images below.
+Our goal was to capture a toddler’s field of view and their interactions as accurately as possible while also providing head tracking data. We found that the GoPro Hero Bones meet these needs with a ~100°+ FOV, a GPs unit, Gyroscope, accelerometer, high resolution video and recording time up to 45-60 with this current battery choice. Data is recorded onto micro SD cards which can hold up to 256G. During our experimentation with the GoPros, we determined that orienting the camera vertically at an angle neutral to the face place of the child was preferable because it enables the camera to capture both adult faces and objects within a child’s hands in the same image; see example images below.
 
 <p float="left">
 <img src="example_frame_1.png" width="350">
