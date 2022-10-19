@@ -1,4 +1,4 @@
-![babyview_photo.png](babyview_photo.png)
+![babyview_photo.png](BabyViewFigureBones10_19_22.png)
 
 
 ## About the BabyView
@@ -10,6 +10,9 @@ All design documentation, safety testing protocols, assembly instructions, pilot
 If you are interested in being part of a batch of orders for BabyView cameras for production in summer 2022, please contact bria [at] stanford.edu.
 
 ## Brief overview
+
+![camera_design_bones.png](camera_design_bones.png)
+
 
 ### Camera choice 
 Our goal was to capture a toddler’s field of view and their interactions as accurately as possible while also providing head tracking data. We found that the GoPro Hero Bones meet these needs with a ~100°+ FOV, a GPs unit, Gyroscope, accelerometer, high resolution video and recording time up to 45-60 with this current battery choice. Data is recorded onto micro SD cards which can hold up to 256G. During our experimentation with the GoPros, we determined that orienting the camera vertically at an angle neutral to the face place of the child was preferable because it enables the camera to capture both adult faces and objects within a child’s hands in the same image; see example images below.
