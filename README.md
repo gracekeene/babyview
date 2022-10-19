@@ -17,7 +17,7 @@ All design documentation, safety testing protocols, assembly instructions, pilot
 Contributors: 
 
 Bria Long<sup>1<sup>, Sarah Goodin<sup>2<sup>, George Kachergis<sup>1<sup>, Virginia A. Marchman<sup>1<sup>, Samaher Radwan<sup>1<sup>, 
-Violet Xiang<sup>1<sup>, Chengxu Zhuang<sup>1<sup>, Oliver Hsu<sup>2<sup>, Brett Newman<sup>2<sup>, Daniel L. K. Yamins<sup>1,3<sup>, Michael C. Frank<sup>1<sup>
+Violet Xiang<sup>1<sup>, Chengxu Zhuang<sup>1<sup>, Oliver Hsu<sup>2<sup>, Brett Newman<sup>2<sup>, Daniel L. K. Yamins<sup>1,3<sup>, Michael C. Frank <sup>1<sup>
 
 1 Department of Psychology, Stanford University
 2 Daylight Design
