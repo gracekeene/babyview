@@ -8,7 +8,7 @@ The BabyView camera is designed to collect high-resolution, at-home egocentric v
 All design documentation, safety testing protocols, assembly instructions, pilot data, data management protocols, and sample participant instructions can be found at https://osf.io/kwvxu/. 
 
 Our paper in Behavioral Research Methods can be found <a rel="link" href="https://doi.org/10.3758/s13428-023-02206-1">here</a>.
-An open-access version is on PsyArXiv at <a rel="link" href="https://psyarxiv.com/238jk">here</a>.
+An open-access version is on PsyArXiv and can be found <a rel="link" href="https://psyarxiv.com/238jk">here</a>.
 
 ## Brief overview
 
