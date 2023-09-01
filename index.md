@@ -5,9 +5,9 @@
 
 The BabyView camera is designed to collect high-resolution, at-home egocentric video data from children 6 - 30 months of age. The camera consists of a rotated GoPro Black Bones camera attached to a lightweight baby safety helmet using a custom 3D printed mount and attached to a rechargeable 9V battery. The BabyView camera was designed in collaboration with Daylight, Inc., a product-design firm in San Francisco, CA, and and is the result of more than a year of prototyping.
 
-All design documentation, safety testing protocols, assembly instructions, pilot data, data management protocols, and sample participant instructions can be found on <a rel='link' href="https://osf.io/kwvxu/.">the BabyView OSF page</a>
+All design documentation, safety testing protocols, assembly instructions (with detailed photos), pilot data, data management protocols, and sample participant instructions can be found on <a rel='link' href="https://osf.io/kwvxu/.">the BabyView OSF page</a>.
 
-Our paper in Behavioral Research Methods can be found <a rel="link" href="https://doi.org/10.3758/s13428-023-02206-1">here</a>.
+Our paper detailing our design process is now out in Behavioral Research Methods and can be found <a rel="link" href="https://doi.org/10.3758/s13428-023-02206-1">here</a>.
 An open-access version is on PsyArXiv and can be found <a rel="link" href="https://psyarxiv.com/238jk">here</a>.
 
 ## Brief overview
