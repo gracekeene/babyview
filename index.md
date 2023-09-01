@@ -3,11 +3,12 @@
 
 ## About the BabyView
 
-The BabyView camera is designed to collect high-resolution, at-home egocentric video data from children 9 - 30 months of age. The camera consists of a rotated GoPro Black Bones camera attached to a lightweight baby safety helmet using a custom 3D printed mount and attached to a rechargeable 9V battery. The BabyView camera was designed in collaboration with Daylight, Inc., a product-design firm in San Francisco, CA, and and is the result of more than a year of prototyping.
+The BabyView camera is designed to collect high-resolution, at-home egocentric video data from children 6 - 30 months of age. The camera consists of a rotated GoPro Black Bones camera attached to a lightweight baby safety helmet using a custom 3D printed mount and attached to a rechargeable 9V battery. The BabyView camera was designed in collaboration with Daylight, Inc., a product-design firm in San Francisco, CA, and and is the result of more than a year of prototyping.
 
-All design documentation, safety testing protocols, assembly instructions, pilot data, data management protocols, and sample participant instructions can be found at https://osf.io/kwvxu/, which also links to a preprint of a forthcoming paper with this same content. 
+All design documentation, safety testing protocols, assembly instructions, pilot data, data management protocols, and sample participant instructions can be found at https://osf.io/kwvxu/. 
 
-If you are interested in being part of a batch of orders for BabyView cameras for production in summer 2022, please contact bria [at] stanford.edu.
+Our paper in Behavioral Research Methods can be found here: https://doi.org/10.3758/s13428-023-02206-1
+An open-access version is on PsyArXiv: https://psyarxiv.com/238jk/
 
 ## Brief overview
 
@@ -27,7 +28,7 @@ Our goal was to capture a toddler’s field of view and their interactions as ac
 
 Contributors: 
 
-Bria Long<sup>1</sup>, Sarah Goodin<sup>2</sup>, George Kachergis<sup>1</sup>, Virginia A. Marchman<sup>1</sup>, Samaher Radwan<sup>1</sup>, 
+Bria Long<sup>1</sup>, Sarah Goodin<sup>2</sup>, George Kachergis<sup>1</sup>, Virginia A. Marchman<sup>1</sup>, Samaher F. Radwan<sup>1</sup>, Robert Z. Sparks <sup>1</sup>,
 Violet Xiang<sup>1</sup>, Chengxu Zhuang<sup>1</sup>, Oliver Hsu<sup>2</sup>, Brett Newman<sup>2</sup>, Daniel L. K. Yamins<sup>1,3</sup>, Michael C. Frank<sup>1</sup>
 
 1 Department of Psychology, Stanford University
