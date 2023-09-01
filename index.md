@@ -1,7 +1,7 @@
 ![babyview_photo.png](BabyViewFigureBones10_19_22.png)
 
 
-## About the BabyView
+## About the BabyView 
 
 The BabyView camera is designed to collect high-resolution, at-home egocentric video data from children 6 - 30 months of age. The camera consists of a rotated GoPro Black Bones camera attached to a lightweight baby safety helmet using a custom 3D printed mount and attached to a rechargeable 9V battery. The BabyView camera was designed in collaboration with Daylight, Inc., a product-design firm in San Francisco, CA, and and is the result of more than a year of prototyping.
 
@@ -9,10 +9,15 @@ All design documentation, safety testing protocols, assembly instructions (with 
 
 Our paper detailing our design process is now out in Behavioral Research Methods and can be found <a rel="link" href="https://doi.org/10.3758/s13428-023-02206-1">here</a>.
 An open-access version is on PsyArXiv and can be found <a rel="link" href="https://psyarxiv.com/238jk">here</a>.
+A detailed instruction manual that we give to parents in linked on the OSF page but can also be found <a rel="link" href="https://docs.google.com/document/d/1uODmIMQMlzofB-oz8A-zfd52h-UdplrrAQ6fKHX4THQ/edit">here</a>.
 
-## Brief overview
+## Camera overview
 
 ![camera_design_bones.png](camera_design_bones.png)
+
+
+### Building your own BabyView   
+Here is a <a rel='link' href="https://docs.google.com/document/d/1WNVVGBGL0Wr9JmhAmUBP3aWvqdm5t9pT6djyN3FBbCs/edit.">detailed guide </a>. to assembling your own BabyView Camera, as well as a <a rel='link' href="https://docs.google.com/spreadsheets/d/12SI27F_oBQgyvxefRzlTGkFIlSgNnN3jJOYjoff56Ng/edit?usp=sharing.">bill of materials </a>. for each component; the custom mounts will need to be 3D printed (see <a rel='link' href="https://osf.io/kwvxu/.">the BabyView OSF page</a> for CAD files).
 
 
 ### Camera choice 
